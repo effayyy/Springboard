@@ -1,2 +1,2 @@
 # Springboard
-Here for a Data Science course
+Data Science course
